@@ -19,5 +19,6 @@ add external jar files
         ->io file upload jar file
 ## Step 6:
 run it;
-## To see how its seems, just click on the link
+## To see the more pictures, just click on the link
+https://minhasloveleen.github.io/picsofalumnisystem/
 
