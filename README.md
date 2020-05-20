@@ -1,5 +1,5 @@
 # AlumniSystem
-this project is done in Java Server page.
+this project is done in Java Server page.</br>
 Alumni system is a website in which all the student who passout from particular college can stay in connect with other student.
 and canstudent get know eachother what there alumni working with. that can create job oppoutunities as  well for the fresher students.
 To install the project
